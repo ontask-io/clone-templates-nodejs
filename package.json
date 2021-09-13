@@ -1,0 +1,19 @@
+{
+  "name": "clone-templates-nodejs",
+  "description": "Sample code utilizing the OnTask API to clone all templates in one group to another",
+  "version": "1.0.0",
+  "main": "clone.js",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ontask-io/clone-templates-nodejs.git"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
